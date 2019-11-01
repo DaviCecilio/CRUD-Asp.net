@@ -1,0 +1,115 @@
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\oficina3c14.dll.config
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\oficina3c14.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\oficina3c14.pdb
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\csc.exe
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\csc.exe.config
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\csc.rsp
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\csi.exe
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\csi.exe.config
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\csi.rsp
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\Microsoft.Managed.Core.targets
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.AppContext.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.Collections.Immutable.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.Console.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.IO.Compression.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.IO.FileSystem.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.IO.Pipes.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.Reflection.Metadata.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.Security.AccessControl.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.Security.Claims.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.Security.Principal.Windows.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.ValueTuple.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.Xml.XmlDocument.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.Xml.XPath.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\vbc.exe
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\vbc.exe.config
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\vbc.rsp
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\VBCSCompiler.exe
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\roslyn\VBCSCompiler.exe.config
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\Google.Protobuf.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\MySql.Data.xml
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\obj\Debug\oficina3c14.csprojAssemblyReference.cache
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\obj\Debug\oficina3c14.csproj.CoreCompileInputs.cache
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\obj\Debug\oficina3c14.csproj.CopyComplete
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\obj\Debug\oficina3c14.dll
+H:\POO\3°Trimestre\oficina3c14\oficina3c14\obj\Debug\oficina3c14.pdb
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\oficina3c14.dll.config
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\oficina3c14.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\oficina3c14.pdb
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\csc.exe
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\csc.exe.config
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\csc.rsp
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\csi.exe
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\csi.exe.config
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\csi.rsp
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.AppContext.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.Collections.Immutable.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.Console.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.IO.Compression.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.IO.FileSystem.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.IO.Pipes.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.Security.AccessControl.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.Security.Claims.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.ValueTuple.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.Xml.XPath.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\vbc.exe
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\vbc.exe.config
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\vbc.rsp
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\VBCSCompiler.exe
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\roslyn\VBCSCompiler.exe.config
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\Google.Protobuf.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\MySql.Data.xml
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\obj\Debug\oficina3c14.csprojAssemblyReference.cache
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\obj\Debug\oficina3c14.csproj.CoreCompileInputs.cache
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\obj\Debug\oficina3c14.csproj.CopyComplete
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\obj\Debug\oficina3c14.dll
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\obj\Debug\oficina3c14.pdb
+D:\Documentos\COTEMIG\3 - ANO\POO\oficina3c14\oficina3c14\bin\BouncyCastle.Crypto.dll
